@@ -1,0 +1,26 @@
+
+
+.cont{
+    display: flex;
+    margin-top: 100px;
+    
+}
+.lorem{
+    width: 400px;
+    border: 2px solid grey;
+    background-color: beige;
+    text-align: center;
+    margin: auto;
+  
+}
+.time{
+    color: brown;
+    font-size: 30px;
+}
+.title{
+  margin: auto;
+    transform: rotate(65deg);
+    font-size: 40px;
+    transition:all 1s;
+    
+}
